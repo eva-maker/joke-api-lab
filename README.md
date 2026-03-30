@@ -52,3 +52,5 @@ Joke:          Chuck Norris knows the last digit of Pi.
 
 Created as a learning example for practicing API usage 
 and JSON parsing in Python.
+
+Виконала студентка групи Б-122-23-1-ТП Бикова Єва
