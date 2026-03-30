@@ -1,5 +1,4 @@
-
-🤠 Chuck Norris Joke Generator
+#🤠 Chuck Norris Joke Generator
 
 A simple Python script that fetches a random Chuck Norris joke 
 by category using the Chuck Norris API and displays it in the console.
