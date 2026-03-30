@@ -1,4 +1,4 @@
-#🤠 Chuck Norris Joke Generator
+# 🤠 Chuck Norris Joke Generator
 
 A simple Python script that fetches a random Chuck Norris joke 
 by category using the Chuck Norris API and displays it in the console.
@@ -14,8 +14,10 @@ by category using the Chuck Norris API and displays it in the console.
 
 The script consists of two main functions:
 
-1. `get_joke(category)` — sends a GET request to the API, parses the JSON response, and returns a joke object
-2. `main()` — displays available categories, receives user input, calls get_joke() and prints the result
+1. `get_joke(category)` — sends a GET request to the API, 
+   parses the JSON response, and returns a joke object
+2. `main()` — displays available categories, receives user input, 
+   calls get_joke() and prints the result
 
 External libraries used:
 - `requests` — for handling HTTP requests
@@ -33,7 +35,7 @@ python joke_api.py
 ## 💡 Example Output
 
 Available categories:
-animal, career, celebrity, dev, fashion, food, history...
+animal, career, celebrity, dev, ...
 
 Enter category: science
 
@@ -50,18 +52,3 @@ Joke:          Chuck Norris knows the last digit of Pi.
 
 Created as a learning example for practicing API usage 
 and JSON parsing in Python.
-```
-
-5. Натисни **Commit changes** → **Commit changes** ще раз
-
----
-
-**Спосіб 2 — Через термінал:**
-```
-git pull
-```
-Потім відкрий `README.md` у VS Code, встав текст, збережи і:
-```
-git add README.md
-git commit -m "Update README"
-git push
